@@ -37,7 +37,12 @@ password    : dnnbgelirblqpubh
 
 </code-block>
 
-## smtp google
-mot de passe application crée : ktos nnrk irtr hame
+## smtp google avec le compte : jeannick.grondin@gmail.com
+mot de passe application (legend) crée : oscc ksqp tnkl hcsa
+
+## smtp google avec le compte de NSA : compta.sasnsa@gmail.com
+mot de passe : Sk17081972
+application LEGEND : ewoh xovn lmyi plge
+
 
 

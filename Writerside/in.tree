@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                  start-page="Frais-d-approche.md">
+
+    <toc-element topic="Juin-2025.md"/>
+    <toc-element topic="Autorisation-déplacer-les-sous-caisses.md"/>
+    <toc-element topic="Modèle-de-vente.md"/>
+    <toc-element topic="Déséquilibre-Saisie-Guidée.md"/>
+    <toc-element topic="Librarie-de-Everest.md"/>
+    <toc-element topic="Total-Lacaussade.md"/>
+    <toc-element topic="NSA-Tenant-ID.md"/>
+    <toc-element topic="Vito-La-bretagne-zendesk-240222.md"/>
+    <toc-element topic="Etat-par-défaut-pour-l-envoi-de-mail.md"/>
+    <toc-element topic="Déclaration-de-TVA.md"/>
+    <toc-element topic="Comptabilité-Vito-Saint-Leu.md"/>
+    <toc-element topic="Selection-des-factures-après-la-génération-automatique.md"/>
+    <toc-element topic="Report.md"/>
+    <toc-element topic="Inventaire-3Bassins.md"/>
+    <toc-element topic="Inventaire-3Bassins-30-09-2024.md"/>
+    <toc-element topic="Engen-Mon-Caprice.md"/>
+    <toc-element topic="Stock-Vito-Saint-Leu.md"/>
+    <toc-element topic="Centre-d-aide.md"/>
+    <toc-element topic="Papangue.md"/>
+    <toc-element topic="FraisApprocheReception.md"/>
+    <toc-element topic="Vito-11.md"/>
+    <toc-element topic="Méthode-mémo-technique.md"/>
+    <toc-element topic="Frais-d-approche.md"/>
+    <toc-element topic="Calcul-frais-d-approche.md"/>
+</instance-profile>

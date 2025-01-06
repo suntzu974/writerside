@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="5f56dbba">
+        <description>Created after removal of "Starter" from Instance Name</description>
+        <accepts>starter.html</accepts>
+    </rule>
+    <rule id="10116ad5">
+        <description>
+            <![CDATA[Created after removal of "<Déplacement-de-sous-caisse.md>" from Instance Name]]></description>
+        <accepts>Déplacement-de-sous-caisse.html</accepts>
+    </rule>
+    <rule id="2804b443">
+        <description>Created after removal of "Etat courriel par défaut" from Instance Name</description>
+        <accepts>Etat-courriel-par-défaut.html</accepts>
+    </rule>
+</rules>
